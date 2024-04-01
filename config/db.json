@@ -1,0 +1,42 @@
+[
+  {
+    "id": "01",
+    "name": "hello user",
+    "gender": "male",
+    "contact": "01562",
+    "address": "kathmandu",
+    "photoUrl": "https://media.allure.com/photos/637af89592c10b5db624ed85/master/w_1600%2Cc_limit/quenlin%2520blackwell_2023%2520short%2520hair%2520trends.jpg"
+  },
+  {
+    "id": "02",
+    "name": "joy thapa",
+    "gender": "male",
+    "contact": "01728428141",
+    "address": "biratnagar",
+    "photoUrl": "https://media.allure.com/photos/637af89592c10b5db624ed85/master/w_1600%2Cc_limit/quenlin%2520blackwell_2023%2520short%2520hair%2520trends.jpg"
+  },
+  {
+    "id": "03",
+    "name": "akash bhattarai",
+    "gender": "male",
+    "contact": "01568123123",
+    "address": "pokhara",
+    "photoUrl": "https://media.allure.com/photos/637af89592c10b5db624ed85/master/w_1600%2Cc_limit/quenlin%2520blackwell_2023%2520short%2520hair%2520trends.jpg"
+  },
+  {
+    "id": "04",
+    "name": "ramesh dahal",
+    "gender": "male",
+    "contact": "0123289067",
+    "address": "kathmandu",
+    "photoUrl": "https://media.allure.com/photos/637af89592c10b5db624ed85/master/w_1600%2Cc_limit/quenlin%2520blackwell_2023%2520short%2520hair%2520trends.jpg"
+  },
+  {
+    "id": "05",
+    "name": "riya rai",
+    "gender": "female",
+    "contact": "01761216822",
+    "address": "dharan",
+    "photoUrl": "https://media.allure.com/photos/637af89592c10b5db624ed85/master/w_1600%2Cc_limit/quenlin%2520blackwell_2023%2520short%2520hair%2520trends.jpg"
+  }
+]
